@@ -1,0 +1,82 @@
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll.config
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.pdb
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csprojAssemblyReference.cache
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CopyComplete
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.dll
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.pdb
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.deneme.resources
+C:\Users\tayfun.karaveli\source\repos\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.GenerateResource.cache
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll.config
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.pdb
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.dll
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.xml
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csprojAssemblyReference.cache
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CoreCompileInputs.cache
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CopyComplete
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.dll
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.pdb
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.deneme1.resources
+D:\1bilge adam\1ÖDEVLER\OTS_TUR\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.GenerateResource.cache
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll.config
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.pdb
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CopyComplete
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.dll
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.pdb
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.ilk.resources
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.GenerateResource.cache
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.ili.resources
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations._954.resources
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations._955.resources
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.odemeTipi.resources
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll.config
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.pdb
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.ilk.resources
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.ili.resources
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations._954.resources
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations._955.resources
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.odemeTipi.resources
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.GenerateResource.cache
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CopyComplete
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.dll
+C:\Users\omer_\Desktop\TourCompany\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.pdb
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csprojAssemblyReference.cache
+C:\Users\salih\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.son.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll.config
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.dll
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\OTS_ENTITIES.pdb
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csprojAssemblyReference.cache
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.ilk.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.ili.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations._954.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations._955.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.odemeTipi.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.Migrations.son.resources
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.GenerateResource.cache
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.csproj.CopyComplete
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.dll
+C:\Users\tayfun.karaveli\Desktop\OTS_TUR\OTS_ENTITIES\obj\Debug\OTS_ENTITIES.pdb
